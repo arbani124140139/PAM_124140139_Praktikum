@@ -13,4 +13,5 @@ Saat berita dipilih, Coroutine mengambil detail berita secara asynchronous.
 
 
 ## Screenshot
-![Screenshot Aplikasi](https://github.com/user-attachments/assets/62c67c0e-8496-4394-b154-233ce5a77cac)
+<img width="1917" height="1078" alt="Screenshot 2026-09-25 153128" src="https://github.com/user-attachments/assets/aa860d06-5b69-4c33-a39e-0a580f724e29" />
+
